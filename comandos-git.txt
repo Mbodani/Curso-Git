@@ -1,2 +1,21 @@
 git config --global user.name "Marcio Bodani"
 git config --global user.email "marcio.bodani@gmail.com"
+
+-----------
+git status 
+
+git add .
+
+git status 
+
+git commit -m "Primeiro Projeto git " 
+------------------------------------------
+a cada alteração do projeto devemos executar esses comandos
+
++  git status 
+|
+|  git add .
+|
+|  git status 
+|
++  git commit -m "Primeiro Projeto git " 
