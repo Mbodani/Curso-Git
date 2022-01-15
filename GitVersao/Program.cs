@@ -7,6 +7,7 @@ namespace GitVersao
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Alo Mundo C#!");
         }
     }
 }
