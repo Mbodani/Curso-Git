@@ -8,6 +8,8 @@ namespace GitVersao
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Alo Mundo C#!");
+
+            Console.WriteLine("Teste do git ");
         }
     }
 }
