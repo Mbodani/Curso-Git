@@ -19,3 +19,16 @@ a cada alteração do projeto devemos executar esses comandos
 |  git status 
 |
 +  git commit -m "Primeiro Projeto git " 
+
+git clean -df
+git checkout -- .
+
+---------------------------------------------
+desfazer o ultimo commit
+git reset --soft HEAD~1
+
+remover o ultimo commit inclusive as alterações
+
+git reset --hard HEAD~1
+
+

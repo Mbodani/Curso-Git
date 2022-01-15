@@ -10,6 +10,7 @@ namespace GitVersao
             Console.WriteLine("Alo Mundo C#!");
 
             Console.WriteLine("Teste do git ");
+            Console.ReadLine();
         }
     }
 }
